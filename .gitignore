@@ -1,0 +1,9 @@
+# Binaires Go
+*.exe
+*.exe~
+*.test
+*.out
+
+# Fichiers système
+.DS_Store
+Thumbs.db
